@@ -1,0 +1,2 @@
+# Litebank
+Personal banking system
